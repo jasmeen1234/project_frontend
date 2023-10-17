@@ -1,0 +1,17 @@
+.main-row{
+    display: flex;
+    justify-content: space-evenly;
+}
+.btn-active{
+    color: aqua;
+    background-color: antiquewhite;
+}
+
+.projectlist{
+    color: aliceblue;
+    background-image: url("C:\Users\JASMEEN BANO\OneDrive\Desktop\project-fullstack\frontend\src\imagefile\Headerbg.svg");
+}
+.main-project{
+    margin-left: 160px; /* Same as the width of the sidenav */
+    padding: 0px 10px;
+}

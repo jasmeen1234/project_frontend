@@ -1,0 +1,22 @@
+.dashboard{
+   color:aliceblue;
+    background-image: url("C:\Users\JASMEEN BANO\OneDrive\Desktop\project-fullstack\frontend\src\imagefile\Headerbg.svg");
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.dashboard1{
+    margin-left: 160px; /* Same as the width of the sidenav */
+    padding: 0px 10px;
+}
+.sts-field{
+    height: 100px;
+    width: 150px;
+    border: 2px solid black;
+}
+.status{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}

@@ -1,0 +1,83 @@
+.CreatprojectMain-container {
+    grid-area: main;
+    overflow-y: auto;
+    padding: 20px 20px;
+    color: rgba(255, 255, 255, 0.95);
+    background-image: url('C:\Users\JASMEEN BANO\OneDrive\Desktop\project-fullstack\frontend\src\imagefile\Headerbg.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 160px; /* Same as the width of the sidenav */
+    padding: 0px 10px;
+   
+}
+.logo{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    padding: 10px 0;
+}
+.CreatprojectMain-title {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  font-size: 24px;
+  font-weight: bold;
+}
+.CreatprojectMain-card {
+    display: flex;
+    flex-direction: column;
+    border-radius: 5px;
+    min-height: 80vh;
+    color: black;
+    background-color: #ffffff;
+    box-shadow: 0px 0px 5px rgba(26, 112, 211, 0.3);
+    gap: 10px;
+    margin-top: 20px;
+  padding: 20px;
+  color: black;
+}
+.CreatprojectMain-cards { 
+    margin-top: 30px;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+.textareaandbtn{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0;
+}
+.Creatprojectmaintextarea{
+    width: 60%;
+    height: 80px;
+    padding: 10px;
+    border: 1px solid #ccc;
+
+    border-radius: 15px;
+}
+.mainbtn{
+    height: 40px;
+}
+.Creatprojectform{
+    width: 350px;
+    padding: 20px;
+}
+.Creatprojectformfild{
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0 15px 0;
+    border-radius: 10px;
+}
+.projectform{
+    display: flex;
+    justify-content: left;
+}
+.Creatprojectforminput {
+    width: 73%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+.CreatprojectformStatus{
+    font-weight: bold;
+}
